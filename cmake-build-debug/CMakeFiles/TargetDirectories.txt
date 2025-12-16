@@ -1,0 +1,14 @@
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/BigTitle.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/interpreter.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/substr.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/malloc.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/malloc2.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/pointer.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/selectsort.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/strcmp.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/strcpy.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/strlen.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/test1.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/testheapmax.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ROG/Desktop/code/南京大学cpl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
