@@ -3,7 +3,10 @@
 
 相关资源链接：
 
+ppt:
 
+         https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main
+         
 课程网站：
          
          https://docs.cpl.icu/#/
